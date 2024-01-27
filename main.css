@@ -12,14 +12,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    color: rgb(78, 240, 255);
-text-shadow: 0 0 10px rgb(78, 240, 255); 
+    color: rgb(255, 255, 255);
+text-shadow: 0 0 10px rgb(255, 255, 255); 
     
 } 
 a{
     text-decoration: none;
-    color: rgb(78, 240, 255);
-text-shadow: 0 0 10px rgb(78, 240, 255);
+    color: rgb(255, 255, 255);
+text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 
 #ronald{
@@ -29,4 +29,3 @@ text-shadow: 0 0 10px rgb(78, 240, 255);
 #ronald:hover{
     filter: opacity(0.6); 
 }
-
